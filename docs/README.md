@@ -4,7 +4,7 @@
 
 # སྨིན་གྲོལ་གླིང་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/mindroling/master/docs/img/03.PNG)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/mindroling/master/docs/img/03.jpg)
 
 <br>
 <br>

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/mindroling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/mindroling/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/mindroling/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/mindroling/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/mindroling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/mindroling/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/mindroling/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/mindroling/shadra">མཐོ་སློབ་ཀྱི་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/mindroling/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/mindroling/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/mindroling/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/mindroling/natsok">སྣ་ཚོགས།</a></p>
 
 
 # སྨིན་གྲོལ་གླིང་དང་འབྲེལ་བའི་གཞུང་ལུགས་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།

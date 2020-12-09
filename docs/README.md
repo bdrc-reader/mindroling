@@ -8,7 +8,7 @@
 
 <br>
 
-# སྔ་འགྱུར་མཐོ་སློབ་མདོ་རྒྱུད་ལེགས་བཤད་གླིང་། 
+## སྔ་འགྱུར་མཐོ་སློབ་མདོ་རྒྱུད་ལེགས་བཤད་གླིང་། 
 
 <img src="https://user-images.githubusercontent.com/42564256/92857139-d7856680-f426-11ea-9c89-b2f482fcd48e.png" align="right" width="400" height="250">
 
